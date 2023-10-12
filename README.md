@@ -8,3 +8,6 @@ Export model
 Development npm run dev
 Build npm run build
 
+## 
+<p><a href="https://raw.githack.com/Atuljust11/RoomPlanner/main/dist/index.html">RoomPlanner Demo</a></p>
+
